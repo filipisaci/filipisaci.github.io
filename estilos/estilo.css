@@ -1,0 +1,23 @@
+html{
+	//width: 855px;
+	margin: auto;
+}
+body{
+	background-color: #f1f1f1;
+}
+#tab2 {
+	width: 350px;
+	margin: auto;
+	text-align: center;
+}
+.cor1, .cor2 {
+	padding: 0px;
+	margin: 0px
+
+}
+.cor1{
+	background-color: #f1f1f1;
+}
+.cor2{
+	background-color: #f7f7f7;
+}
