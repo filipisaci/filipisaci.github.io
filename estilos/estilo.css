@@ -1,14 +1,27 @@
 html{
-	//width: 855px;
+	width: 855px;
 	margin: auto;
+	margin-bottom: 50px;
 }
 body{
 	background-color: #f1f1f1;
+	text-align: justify;
 }
 #tab2 {
 	width: 350px;
 	margin: auto;
+	margin-top: 5px;
 	text-align: center;
+}
+
+.btn-primary {
+	margin-top: 5px;
+}
+
+#nome, #telefone, #email, #mensagem {
+	width: 330px;
+	margin: auto;
+	margin-top: 5px;
 }
 .cor1, .cor2 {
 	padding: 0px;
