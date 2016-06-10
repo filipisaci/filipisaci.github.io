@@ -1,5 +1,5 @@
 html{
-	width: 855px;
+	//width: 855px;
 	margin: auto;
 	margin-bottom: 50px;
 }
@@ -8,7 +8,7 @@ body{
 	text-align: justify;
 }
 #tab2 {
-	width: 350px;
+	//width: 350px;
 	margin: auto;
 	margin-top: 5px;
 	text-align: center;
@@ -19,7 +19,7 @@ body{
 }
 
 #nome, #telefone, #email, #mensagem {
-	width: 330px;
+	//width: 330px;
 	margin: auto;
 	margin-top: 5px;
 }
